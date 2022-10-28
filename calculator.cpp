@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int num1,num2,n;
+    int num1,num2;
     char op;
     cout <<"Choose + - * / :";
     cin >>op;
